@@ -1,10 +1,10 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hugo Site"
 
 [params]
-    description = "...because cats invented the internet as they say!!"
-    copyright = "@abc 2018. All Rights Reserved by ABC."
+    description = "...solving error is the best solution as they say!!"
+    copyright = "@j 2018. All Rights Reserved by J."
 
 [permalinks]
     post = "/:year/:month/:day/:slug/" 
