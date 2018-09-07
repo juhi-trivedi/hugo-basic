@@ -4,7 +4,7 @@ title = "Hugo Site"
 
 [params]
     description = "...solving error is the best solution as they say!!"
-    copyright = "@j 2018. All Rights Reserved by J."
+    copyright = "@j 2018. All Rights Reserved by J's."
 
 [permalinks]
     post = "/:year/:month/:day/:slug/" 
