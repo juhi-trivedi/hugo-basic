@@ -1,6 +1,6 @@
 # Global settings applied to the whole site.
 [build]
-  command = "hugo"
+#  command = "hugo"
   publish = "public"
 
 # Build a preview of the site (Drafts and Future dates also) 
