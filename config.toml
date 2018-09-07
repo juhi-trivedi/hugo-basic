@@ -1,0 +1,7 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[params]
+    description = "...because cats invented the internet!!"
+    copyright = "@abc 2018. All rights reserved."
