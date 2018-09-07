@@ -3,5 +3,8 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 
 [params]
-    description = "...because cats invented the internet!!"
-    copyright = "@abc 2018. All rights reserved."
+    description = "...because cats invented the internet as they say!!"
+    copyright = "@abc 2018. All Rights Reserved by ABC."
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/" 
